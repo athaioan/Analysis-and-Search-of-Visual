@@ -1,6 +1,6 @@
 # Analysis-and-Search-of-Visual
 
-Projects' implementation in the context of the Analysis and Search of Visual Data course. 
+Projects' implementation for the Analysis and Search of Visual Data course. 
 
 The provided code was written by me, while the reports were written jointly by me and Aleix Espuña Fontcuberta. 
 
