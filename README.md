@@ -1,4 +1,4 @@
-# Analysis-and-Search-of-Visual
+# EQ2425 Analysis and Search of Visual Data
 
 Projects' implementation for the Analysis and Search of Visual Data course. 
 
